@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e3e8c670-0400-451b-94d5-ed98f0c3615e" name="dm3_tarcluster">
+        <fileTransfer rootFolder="/public/Users/kongjind/pipeline/TargetCluster" accessType="SFTP" host="183.129.137.98" port="9804" sshConfigId="51d00852-2b12-4077-bdaa-1036a68feceb" sshConfig="kongjd@183.129.137.98:9804 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
